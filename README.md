@@ -19,12 +19,12 @@
 ![]()
 
 ## Results:
-	1.	2017 was a good year for green energy companies (see “All Stocks (2017)”), with one exception being “TERP” who reported a negative return value, all stocks 			netted a positive return. “DQ” showed the biggest return with nearly 200%. Unfortunately, 2018 painted a different picture (see “All Stocks (2018)”). Nearly all 		 stocks reported negative returns except for “ENPH” and “RUN”.
-		![]()        ![]()
-	2.	Based on the results, it is recommended that Steve advise his parents to invest in “ENPH” and/or “RUN” green energy as they are the only two companies to report 		 positive returns over the past two years. 
-	3.	Refactoring of the code lead to in improved performance of the VBA macro compared to performance of the original code. 
-		![]()
-	4.	A larger data set ranging back further over a longer period would allow for a more thorough analysis of green energy stock. 
+1.	2017 was a good year for green energy companies (see “All Stocks (2017)”), with one exception being “TERP” who reported a negative return value, all stocks 			netted a positive return. “DQ” showed the biggest return with nearly 200%. Unfortunately, 2018 painted a different picture (see “All Stocks (2018)”). Nearly all 		stocks reported negative returns except for “ENPH” and “RUN”.
+![]()        ![]()
+2.	Based on the results, it is recommended that Steve advise his parents to invest in “ENPH” and/or “RUN” green energy as they are the only two companies to report 		positive returns over the past two years. 
+3.	Refactoring of the code lead to in improved performance of the VBA macro compared to performance of the original code. 
+![]()
+4.	A larger data set ranging back further over a longer period would allow for a more thorough analysis of green energy stock. 
 
 ## Summary:
 
