@@ -22,7 +22,7 @@ Perform data analysis on green energy stock for our client Steve. As well as, cr
 ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/All_Stock_2017_Return.PNG)        ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/All_Stock_2018_Return.PNG)
 2.	Based on the results, it is recommended that Steve advise his parents to invest in “ENPH” and/or “RUN” green energy as they are the only two companies to report 		positive returns over the past two years. 
 3.	Refactoring of the code lead to in improved performance of the VBA macro compared to performance of the original code. 
-![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017_OriginalCode.png)     ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
+![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017_OriginalCode.png)   ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2017.png)
 ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018_OriginalCode.png)   ![](https://github.com/Apollo619/Stock-Analysis/blob/main/Resources/VBA_Challenge_2018.png)
 4.	A larger data set ranging back further over a longer period would allow for a more thorough analysis of green energy stock. 
 
@@ -33,6 +33,6 @@ Perform data analysis on green energy stock for our client Steve. As well as, cr
 - Subsequently a disadvantage of refactoring the code is, you are dependent on the previous coders “comments” to understand what they are wanting to accomplish. Without these comments it can be time consuming to read and interpret the code. Another disadvantage can be when a coder changes the structure of the code it can cause the program to lose track of its variables or it will get lost in an infinite loop, depending on the circumstances. 
 
 ### Advantages and Disadvantages of refactoring original VBA script
-Pro: the refactoring of the code improved performance speed, as seen in the above timer images *All Stocks (2017)* and *All Stocks (2018)*.
+Pro: the refactoring of the code improved performance speed, as seen in the above timer images *VBA_Challenge_2017* and *VBA_Challenge_2018* under **Results 3**.
 
 Con: adding a variable to the array caused miss match issues and other run time errors that needed to be debugged.  
