@@ -33,5 +33,6 @@
 - Subsequently a disadvantage of refactoring the code is, you are dependent on the previous coders “comments” to understand what they are wanting to accomplish. Without these comments it can be time consuming to read and interpret the code. Another disadvantage can be when a coder changes the structure of the code it can cause the program to lose track of its variables or it will get lost in an infinite loop, depending on the circumstances. 
 
 ### Advantages and Disadvantages of refactoring original VBA script
-Pro: the refactoring of the code improved performance speed, as seen in the above timer images *All Stocks (2017)* and *All Stocks (2018)*. 
+Pro: the refactoring of the code improved performance speed, as seen in the above timer images *All Stocks (2017)* and *All Stocks (2018)*.
+
 Con: adding a variable to the array caused miss match issues and other run time errors that needed to be debugged.  
